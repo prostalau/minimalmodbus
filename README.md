@@ -1,0 +1,2 @@
+# minimalmodbus
+for UF50
